@@ -1,0 +1,6 @@
+make.exe run -f C:\Users\ayamu\Desktop\aya\ITI\Cpp\Makefile --dry-run --keep-going --print-directory
+make: Entering directory '/c/Users/ayamu/Desktop/aya/ITI/Cpp/Assignments/assignment1'
+./out.exe
+ 
+make: Leaving directory '/c/Users/ayamu/Desktop/aya/ITI/Cpp/Assignments/assignment1'
+ 
